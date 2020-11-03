@@ -1,37 +1,39 @@
 ## Welcome to my page
 Hey I'm Samrat Kundu🤟
+I'm a student of CoochBehar Government Engineering College, Electronics and communication engineering department
+I love to drawing of imagine character , coocking ,communicate with various people
 
-You can use the [editor on GitHub](https://github.com/Gitmysam/samrat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+
+
+
+
+**who am I?** 
+_A unlucky boy_ 
+
+[Link](url) and ![image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gitmysam/samrat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 ### Support or Contact
 
